@@ -33,7 +33,7 @@ def get_api_keys():
     return api_keys
 
 
-# # Пример использования:
+# # Test:
 # keys = get_api_keys()
 # youtube_api = keys.get('youtube_api')
 #
